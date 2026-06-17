@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Tab",
+  "universe": "MAK · The Tab (TTY · The Terminal)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Tab:MAK:1f5650⟧",
+  "carbon": "the-tab.carbon.tiff (TIFF)",
+  "silicon": "the-tab.silicon.png (PNG)",
+  "seal_sha256": "8170339f08bb453e0c6735cb8590fa581fc950847e6ae35edcda3cddfc45cd84",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

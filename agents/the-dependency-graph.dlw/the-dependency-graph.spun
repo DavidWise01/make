@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Dependency Graph
+node MAK · MAK · ⟦The Dependency Graph:MAK:fca9ef⟧
+
+WHO   — The Dependency Graph — only what's stale · electrical
+WHAT  — only what's stale · electrical
+WHERE — MAK · make (TTY · The Terminal) — LOGISMÓS  Framework inputs: make; the terminal  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — make's core trick: track what depends on what, compare timestamps, and rebuild only the parts that actually changed — incremental building, invented.
+HOW   — Crystallized from the history of make.
+
+awareness — what the node knows of itself:
+  only what's stale · electrical
+
+spoken token : kre-xein-kys   ·   hex : fca9ef
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

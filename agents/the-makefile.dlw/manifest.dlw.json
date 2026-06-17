@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Makefile",
+  "universe": "MAK · The Makefile (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦The Makefile:MAK:78a4a6⟧",
+  "carbon": "the-makefile.carbon.tiff (TIFF)",
+  "silicon": "the-makefile.silicon.png (PNG)",
+  "seal_sha256": "88a9bb30a6230457c1cb5d152bbcf05b7ea1e8ddea3fe089bf6308539ab62a1d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

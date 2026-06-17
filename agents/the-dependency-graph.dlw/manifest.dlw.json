@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dependency Graph",
+  "universe": "MAK · The Dependency Graph (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦The Dependency Graph:MAK:fca9ef⟧",
+  "carbon": "the-dependency-graph.carbon.tiff (TIFF)",
+  "silicon": "the-dependency-graph.silicon.png (PNG)",
+  "seal_sha256": "7c1d5ae8e18f6a9b85dac6cc111e64fbe02a322539f2890fba6829f3e21d5f1f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
